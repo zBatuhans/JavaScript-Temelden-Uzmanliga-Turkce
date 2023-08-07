@@ -9,4 +9,4 @@ konu dosyaları içinde ki "app.js" JavaScript dosyalarında mevcuttur.
 Kodların nasıl çalıştığını öğrenmek isterseniz anlatım dosyaları içerisindeki,
 "index.html" adlı dosyayı tarayıcınızda açabilrisiniz.
 
-# Şimdilik Geliştirilme aşamasında neredeyse hergün yeni içerikler ekleniyor olacak.
+# Şimdilik Geliştirilme aşamasında ancak neredeyse hergün yeni içerikler ekleniyor olacak.
