@@ -33,7 +33,7 @@ else{
     document.write("Üzgünüm, kaldınız. Ortalamanız: "+ ortalama);
 };
 
-console.log(ortalama);
+console.log(ortalama)
 //? Bu betik, önce vize1, vize2 ve final adında 3 prompt değişkeni oluşturur. 
 //? Bu değişkenlerin değerini kullanıcı, prompt fonksiyonu sayesinde kendi belirler.
 //? Değişkenleri oluşturduktan sonra, vize1, vize2 veya final'in 100'den büyük olup olmadığını kontrol eder.
