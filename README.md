@@ -9,4 +9,6 @@ konu dosyaları içinde ki "app.js" JavaScript dosyalarında mevcuttur.
 Kodların nasıl çalıştığını öğrenmek isterseniz anlatım dosyaları içerisindeki,
 "index.html" adlı dosyayı tarayıcınızda açabilrisiniz.
 
+Türk Federasyonu [TF] Discord Merkezi: https://discord.gg/8BHRpcD 
+
 # Şimdilik Geliştirilme aşamasında ancak neredeyse hergün yeni içerikler ekleniyor olacak.
