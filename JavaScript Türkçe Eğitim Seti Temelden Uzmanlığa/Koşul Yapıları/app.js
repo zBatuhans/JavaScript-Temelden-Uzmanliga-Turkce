@@ -19,7 +19,7 @@ let vize1 = Number(prompt("Vize 1 notunuzu giriniz: "));
 let vize2 = Number(prompt("Vize2 notunuzu giriniz: "));
 let final = Number(prompt("Final notunuzu giriniz: "));
 
-if(vize1 || vize2 || final > 100){
+if(vize1 > 100 || vize2 > 100 || final > 100){
     document.write("Herhangi bir notunuz, 100'ün üzerinde olamaz!");
 }
 else{
